@@ -52,7 +52,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/n1"
+        android:id="@+id/number1"
         style="@android:style/Widget.Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -61,11 +61,11 @@
         android:textColor="#0F1A55"
         android:textSize="20sp"
         android:textStyle="bold"
-        app:layout_constraintEnd_toStartOf="@+id/n2"
+        app:layout_constraintEnd_toStartOf="@+id/number2"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/n2"
+        android:id="@+id/number2"
         style="@android:style/Widget.Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -79,7 +79,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/n3"
+        android:id="@+id/number3"
         style="@android:style/Widget.Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -88,11 +88,11 @@
         android:textColor="#0F1A55"
         android:textSize="20sp"
         android:textStyle="bold"
-        app:layout_constraintStart_toEndOf="@+id/n2"
+        app:layout_constraintStart_toEndOf="@+id/number2"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/n4"
+        android:id="@+id/number4"
         style="@android:style/Widget.Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -101,11 +101,11 @@
         android:textColor="#0F1A55"
         android:textSize="20sp"
         android:textStyle="bold"
-        app:layout_constraintEnd_toStartOf="@+id/n5"
+        app:layout_constraintEnd_toStartOf="@+id/number5"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/n5"
+        android:id="@+id/number5"
         style="@android:style/Widget.Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -119,7 +119,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/n6"
+        android:id="@+id/number6"
         style="@android:style/Widget.Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -128,11 +128,11 @@
         android:textColor="#0F1A55"
         android:textSize="20sp"
         android:textStyle="bold"
-        app:layout_constraintStart_toEndOf="@+id/n5"
+        app:layout_constraintStart_toEndOf="@+id/number5"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/n7"
+        android:id="@+id/number7"
         style="@android:style/Widget.Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -141,11 +141,11 @@
         android:textColor="#0F1A55"
         android:textSize="20sp"
         android:textStyle="bold"
-        app:layout_constraintEnd_toStartOf="@+id/n8"
+        app:layout_constraintEnd_toStartOf="@+id/number8"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/n8"
+        android:id="@+id/number8"
         style="@android:style/Widget.Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -159,7 +159,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/n9"
+        android:id="@+id/number9"
         style="@android:style/Widget.Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -168,7 +168,7 @@
         android:textColor="#0F1A55"
         android:textSize="20sp"
         android:textStyle="bold"
-        app:layout_constraintStart_toEndOf="@+id/n8"
+        app:layout_constraintStart_toEndOf="@+id/number8"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
