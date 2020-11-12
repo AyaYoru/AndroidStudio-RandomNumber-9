@@ -14,31 +14,31 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Button btn1 = (Button)findViewById(R.id.n1);
+        Button btn1 = (Button)findViewById(R.id.number1);
         btn1.setOnClickListener(clickNum1);
 
-        Button btn2 = (Button)findViewById(R.id.n2);
+        Button btn2 = (Button)findViewById(R.id.number2);
         btn2.setOnClickListener(clickNum2);
 
-        Button btn3 = (Button)findViewById(R.id.n3);
+        Button btn3 = (Button)findViewById(R.id.number3);
         btn3.setOnClickListener(clickNum3);
 
-        Button btn4 = (Button)findViewById(R.id.n4);
+        Button btn4 = (Button)findViewById(R.id.number4);
         btn4.setOnClickListener(clickNum4);
 
-        Button btn5 = (Button)findViewById(R.id.n5);
+        Button btn5 = (Button)findViewById(R.id.number5);
         btn5.setOnClickListener(clickNum5);
 
-        Button btn6 = (Button)findViewById(R.id.n6);
+        Button btn6 = (Button)findViewById(R.id.number6);
         btn6.setOnClickListener(clickNum6);
 
-        Button btn7 = (Button)findViewById(R.id.n7);
+        Button btn7 = (Button)findViewById(R.id.number7);
         btn7.setOnClickListener(clickNum7);
 
-        Button btn8 = (Button)findViewById(R.id.n8);
+        Button btn8 = (Button)findViewById(R.id.number8);
         btn8.setOnClickListener(clickNum8);
 
-        Button btn9 = (Button)findViewById(R.id.n9);
+        Button btn9 = (Button)findViewById(R.id.number9);
         btn9.setOnClickListener(clickNum9);
 
         Button btn_re = (Button)findViewById(R.id.Restart);
